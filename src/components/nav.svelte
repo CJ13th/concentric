@@ -6,10 +6,10 @@
     </div> 
     <div class="flex-1 px-2 mx-2 navbar-end" >
       <div class="items-stretch hidden lg:flex">
-        <a class="btn btn-ghost btn-sm rounded-btn">Home</a> 
-        <a class="btn btn-ghost btn-sm rounded-btn">Explore</a> 
-        <a class="btn btn-ghost btn-sm rounded-btn">Sign up</a> 
-        <a class="btn btn-ghost btn-sm rounded-btn">About us</a>
+        <a class="btn btn-ghost btn-sm rounded-btn" href="/">Home</a> 
+        <a class="btn btn-ghost btn-sm rounded-btn" href="/products">Explore</a> 
+        <a class="btn btn-ghost btn-sm rounded-btn" href="/signup">Sign up</a> 
+        <a class="btn btn-ghost btn-sm rounded-btn" href="/about">About us</a>
       </div>
     </div> 
   </div>
